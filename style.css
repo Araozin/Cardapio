@@ -71,6 +71,7 @@ h1, h2, h3, .price {
   font-family: 'Roboto Serif';
   text-transform: uppercase;
   color: #2D2C2A;
+  display: flex;
 }
 
 p .details {
